@@ -1,0 +1,2 @@
+[console_scripts]
+poe2-monitor = poe2_monitor.cli:main

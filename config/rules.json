@@ -1,0 +1,111 @@
+{
+  "must_be_confident": true,
+  "confidence_threshold": 0.75,
+  "require_todo_steps": true,
+  "require_risk_assessment": true,
+  "alert_language": "source_language",
+  "title_rules": {
+    "keep_profit_markers": [
+      "profit",
+      "profitable",
+      "currency",
+      "divines",
+      "mirror",
+      "farm",
+      "farming",
+      "flip",
+      "flipping",
+      "arbitrage",
+      "money making",
+      "заработать",
+      "прибыль",
+      "фарм",
+      "валюта",
+      "диваны",
+      "зеркало"
+    ],
+    "keep_mechanics": [
+      "ritual",
+      "breach",
+      "temple",
+      "maps",
+      "trial",
+      "relics",
+      "exchange",
+      "trade",
+      "crafting",
+      "vaal",
+      "gamba",
+      "ритуал",
+      "разлом",
+      "храм",
+      "карты",
+      "трейд",
+      "крафт"
+    ],
+    "keep_pattern_markers": [
+      "how to make",
+      "best way",
+      "fastest way",
+      "only way",
+      "guide to profit"
+    ],
+    "keep_item_crafting_markers": [
+      "crafting boots",
+      "crafting rings",
+      "crafting staff",
+      "crafting amulet",
+      "crafting quiver",
+      "best items to sell",
+      "valuable mods",
+      "affixes to sell"
+    ],
+    "keep_broken_profit_markers": [
+      "broken",
+      "abuse",
+      "exploit",
+      "crazy profitable",
+      "insane profit",
+      "hidden",
+      "secret",
+      "underrated",
+      "free currency"
+    ],
+    "exclude_build_markers": [
+      "build guide",
+      "starter build",
+      "tier list",
+      "best ascendancy",
+      "summoner",
+      "deadeye",
+      "lich",
+      "witchhunter"
+    ],
+    "exclude_news_markers": [
+      "news",
+      "review",
+      "reaction",
+      "worth it",
+      "patch",
+      "update",
+      "release date",
+      "leak"
+    ],
+    "exclude_non_profit_markers": [
+      "bossing",
+      "leveling",
+      "campaign secrets",
+      "act guide",
+      "class overview",
+      "tool guide"
+    ],
+    "priority_number_markers": [
+      "1000+ divines",
+      "80 divine",
+      "best relics to sell",
+      "top 10 arbitrages",
+      "fraction of the cost"
+    ],
+    "require_combination_for_borderline": true
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "source": "youtube",
+    "channel_id": "@XTheFarmerX_POE2",
+    "enabled": true,
+    "priority": 1,
+    "notes": "Starter cohort"
+  },
+  {
+    "source": "youtube",
+    "channel_id": "@Lolcohol",
+    "enabled": true,
+    "priority": 1,
+    "notes": "Starter cohort"
+  },
+  {
+    "source": "youtube",
+    "channel_id": "@Ben_PoE",
+    "enabled": true,
+    "priority": 1,
+    "notes": "Starter cohort"
+  },
+  {
+    "source": "youtube",
+    "channel_id": "@GhazzyTV",
+    "enabled": true,
+    "priority": 1,
+    "notes": "Starter cohort"
+  },
+  {
+    "source": "youtube",
+    "channel_id": "@jellofacey",
+    "enabled": true,
+    "priority": 1,
+    "notes": "Starter cohort"
+  }
+]
